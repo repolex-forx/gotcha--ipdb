@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/gotcha/ipdb/commit/be12fe3b3a043f0bb0d0e9ee78b896287c361d05",
       "git:hexsha": "be12fe3b3a043f0bb0d0e9ee78b896287c361d05",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/gotcha/ipdb/commit/9f745986bf79b2800c72253652cdcba17275d70b",
